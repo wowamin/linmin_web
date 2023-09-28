@@ -41,9 +41,7 @@ nav.innerHTML = `
                                     <li><a class="dropdown-item" href="https://cyvtc.com.tw/t0001/08-2" target="_blank">wordpress網頁課程練習</a></li>
                                 </ul>
                             </li>
-                            // <li class="nav-item">
-                            //     <a class="nav-link" href="#" target="_blank">生活小賣場</a>
-                            // </li>
+                            
                         </ul>
                         <form class="d-flex" role="search">
                             <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search" />
